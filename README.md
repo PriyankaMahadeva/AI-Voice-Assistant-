@@ -1,19 +1,19 @@
-# **AI Virtual Assistant**
+# **AI-Voice-Assistant**
 
-AI Virtual Assistant is a Python-based virtual assistant capable of performing a wide range of tasks such as reading PDFs, controlling system applications, fetching information from the web, sending messages via WhatsApp, playing media, and more. The assistant interacts with users via voice commands and can automate numerous daily tasks.
+The **AI-Voice-Assistant** is a Python-based virtual assistant designed to perform a variety of tasks such as reading PDFs, controlling system applications, retrieving information from the web, sending messages via WhatsApp, playing media, and more. This assistant engages users through voice commands and automates numerous daily activities, making life easier and more efficient.
 
-## **Features**
+## **Key Features**
 
-- **Voice Interaction**: Responds to user commands and provides audio feedback using `pyttsx3`.
-- **Time and Date Information**: Tells the current time and date on request.
-- **Greeting Based on Time of Day**: Greets the user according to the time of day (Morning, Afternoon, Evening).
-- **PDF Reader**: Reads specific pages of PDF documents aloud.
-- **Search Wikipedia**: Retrieves summaries from Wikipedia for "what is" or "who is" questions.
-- **Web Browser Control**: Opens websites like Google, YouTube, Facebook, and others via voice command.
-- **Send WhatsApp Messages**: Sends scheduled WhatsApp messages using `pywhatkit`.
-- **System Control**: Opens applications (e.g., Notepad), switches windows, takes screenshots, or even shuts down, restarts, and logs out of the system.
-- **Instagram Profile Viewer**: Opens and downloads Instagram profile pictures.
-- **Location Identification**: Finds the user's location using IP address lookup.
-- **Jokes**: Tells jokes using the `pyjokes` library.
-- **Screenshot**: Takes and saves screenshots with a user-defined name.
-- **Hide/Unhide Files**: Hides or makes files visible based on user commands.
+- **Voice Interaction**: Engages in a two-way conversation with users, providing audio feedback using the `pyttsx3` library.
+- **Current Time and Date**: Provides accurate time and date information upon request.
+- **Contextual Greetings**: Offers greetings tailored to the time of day (Morning, Afternoon, Evening).
+- **PDF Reading Capability**: Reads aloud specific pages from PDF documents.
+- **Wikipedia Search**: Fetches and summarizes information from Wikipedia for inquiries starting with "what is" or "who is."
+- **Web Browser Control**: Launches websites like Google, YouTube, and Facebook using voice commands.
+- **WhatsApp Messaging**: Sends scheduled messages through WhatsApp utilizing the `pywhatkit` library.
+- **System Control**: Opens applications (e.g., Notepad), switches between windows, captures screenshots, and even allows for shutting down, restarting, or logging out of the system.
+- **Instagram Profile Viewer**: Accesses and downloads profile pictures from Instagram.
+- **Location Detection**: Identifies the user's location through IP address lookup.
+- **Joke Telling**: Shares jokes using the `pyjokes` library to keep the interaction light-hearted.
+- **Screenshot Functionality**: Takes and saves screenshots with names specified by the user.
+- **File Management**: Hides or reveals files based on user commands.
