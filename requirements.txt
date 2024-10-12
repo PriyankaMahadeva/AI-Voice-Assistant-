@@ -1,0 +1,12 @@
+pyttsx3
+datetime
+SpeechRecognition
+wikipedia
+requests
+instaloader
+pyautogui
+pyPDF2
+pywhatkit
+pyjokes
+opencv-python
+PyAudio
